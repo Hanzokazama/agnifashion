@@ -1,0 +1,21 @@
+{
+    "short_name": "Agni Fashion",
+    "name": "Agni Fashion",
+    "description":"Install Agni Fashion on your device",
+    "icons": [
+        {
+            "src": "../img/logo192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "../img/logo512x12.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "https://www.agnifashion.com/",
+    "background_color": "#fff",
+    "display": "standalone",
+    "theme_color": "#404e5a"
+}
