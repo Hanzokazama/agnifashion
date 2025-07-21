@@ -164,6 +164,6 @@ for (let i = 0; i< product_data.length; i++) {
 function watspdir(pic){
 let wurl = getBase(pic);
 console.log(wurl);
-let whatsapp = "https://api.whatsapp.com/send/?phone=918838112883&text= Hi,I'm Interested in this Product, Can i get more details about this 👇🏼."+wurl ;
+https://api.whatsapp.com/send/?phone=918838112883&text= Hi,I'm Interested in this Product, Can i get more details about this
 window.open(whatsapp)
 }
