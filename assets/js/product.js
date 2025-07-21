@@ -78,7 +78,7 @@ function product_data_function() {
     function watspdir(pic){
     let wurl = getBase(pic);
     console.log(wurl);
-    let whatsapp = "https://api.whatsapp.com/send/?phone=918838112883&text= Hi,I'm Interested in this Product, Can i get more details about this 👇🏼."+wurl ;
+    let whatsapp = "https://api.whatsapp.com/send/?phone=919786788639&text= Hi,This is a demo product can't purchase👇🏼."+wurl ;
     window.open(whatsapp)
 }
 
